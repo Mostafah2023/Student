@@ -6,8 +6,8 @@ package student;
 
 import java.util.*;
 /**
- *
- * @author sverdejo
+ * hello there
+ * @author Mostafa Hussain
  */
 public class ReversedWord {
     public static void main(String[] args) {

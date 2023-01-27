@@ -6,7 +6,7 @@ package student;
 
 /**
  *
- * @author sverdejo
+ * @author Mostafa Hussain
  */
 public class StudentList {
     public static void main(String[] args) {
