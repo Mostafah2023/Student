@@ -6,7 +6,7 @@ package student;
 
 /**
  *
- * @author Mostafa Hussain
+ * @author Mostafa Hussain3
  */
 public class Student {
     private String studentId;
